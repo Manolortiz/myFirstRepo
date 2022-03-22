@@ -3,3 +3,4 @@ Bread
 Bananas
 Cereal
 Milk
+Cheese
