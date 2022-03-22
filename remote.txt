@@ -1,0 +1,4 @@
+# Use this to set url.
+git remote set-url origin git@github.com:Manolortiz/myFirstRepo.git
+
+...
